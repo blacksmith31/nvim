@@ -8,4 +8,5 @@ Things to do:
 [x] relative number lines
 [x] add primeagen/vim-be-good
 [ ] markdown preview
+[ ] html tag close completion
 
