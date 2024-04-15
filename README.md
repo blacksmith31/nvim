@@ -9,4 +9,5 @@ Things to do:
 - [x] add primeagen/vim-be-good
 - [ ] markdown preview
 - [ ] html tag close completion
+- [ ] remaps for ctrl-d/ctrl-u to center cursor with zz
 
